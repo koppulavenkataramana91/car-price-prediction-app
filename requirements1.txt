@@ -1,5 +1,7 @@
 streamlit
 pandas
 numpy
-pickle
+xgboost
+joblib
+category_encoders
 scikit learn ==1.6.1
